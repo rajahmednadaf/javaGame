@@ -1,0 +1,13 @@
+
+public class Application {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+	    gameSetUp game = new gameSetUp("skyForce Game",500,600);  
+	    game.gamestart();
+
+
+	}
+
+}
